@@ -1,1 +1,1 @@
-# rep
+An AI-powered appliance repair appointment booking system using Retell AI, Twilio, n8n, and Microsoft Excel. Automates inbound customer calls, collects repair requirements, processes appointment details through webhooks, stores bookings in Excel, and sends customer confirmations via gmail.
